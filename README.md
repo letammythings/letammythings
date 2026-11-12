@@ -12,12 +12,12 @@ I speak Vietnamese and English.
 
 | Project | What it does |
 |---|---|
-| [thinking-app](https://github.com/letammythings/thinking-app) | A conversation app for strangers who meet through questions: realtime chat and voice notes, moderation, scam detection, an admin panel, and an iOS app |
-| [distributor-lead-gen](https://github.com/letammythings/distributor-lead-gen) | Finds B2B distributors from public data, scores them, finds contacts, and drafts outreach with Claude |
 | [instagram-autoposter](https://github.com/letammythings/instagram-autoposter) | Posts to Instagram from a Google Drive folder: writes the caption, builds Reels, asks for approval by email |
 | [ghl-toolkit](https://github.com/letammythings/ghl-toolkit) | GoHighLevel tools: email DNS and blocklist checks, funnel reader, read-only account audit |
 | [travel-buddy](https://github.com/letammythings/travel-buddy) | Free research tools for long stays abroad: apartments, Google Maps checks, flight prices, trip spreadsheets |
 | [nomad-scout](https://github.com/letammythings/nomad-scout) | Researches a city for remote workers and scores neighborhoods against fixed criteria |
+| [thinking-app](https://github.com/letammythings/thinking-app) | A conversation app for strangers who meet through questions: realtime chat and voice notes, moderation, scam detection, an admin panel, and an iOS app |
+| [distributor-lead-gen](https://github.com/letammythings/distributor-lead-gen) | Finds B2B distributors from public data, scores them, finds contacts, and drafts outreach with Claude |
 
 ### What I use
 
